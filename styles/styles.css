@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 23px 226px;
+}
+
+.nav-header{
+  color: #181818;
+  font-size: 45px;
+  font-weight: 800px;
+}
+
+span{
+  color: #FD6E0A;
+}
+
+.nav-links > a{
+  text-decoration: none;
+  margin-right: 50px;
+  color: #474747;
+  font-size: 20px;
+}
+
+.nav-links{
+  display: flex;
+  align-items: center;
+}
+
+.button-f-design{
+  background: #FD6E0A;
+  color: white;
+  border: none;
+  padding: 19px 35px;
+}
